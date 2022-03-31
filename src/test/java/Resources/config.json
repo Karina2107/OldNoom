@@ -1,0 +1,11 @@
+{
+  "windowWidth" : 1280,
+  "windowHeight": 920,
+  "URL": "",
+  "timeOutInSeconds": 15,
+  "sleepInMillis":1000,
+  "locale": "en",
+  "horizontalScroll": 0,
+  "verticalScroll": "250",
+  "browser": "chrome"
+}

@@ -1,0 +1,14 @@
+{
+  "email": "",
+  "password": "",
+  "idealWeight": 77,
+  "weight": 87,
+  "height": 172,
+  "gender": "female",
+  "firstName": "Test",
+  "lastName": "Test",
+  "cardNumber": "4111111111111111",
+  "cardMonth": "12",
+  "cardYear": "24",
+  "CVV": "123"
+}
